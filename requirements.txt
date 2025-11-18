@@ -1,0 +1,3 @@
+deepface
+pyttsx3
+opencv-python
